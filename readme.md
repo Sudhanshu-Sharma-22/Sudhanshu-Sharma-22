@@ -6,7 +6,7 @@
   <br>Hi there! <img src="https://pic.funnygifsbox.com/uploads/2020/01/funnygifsbox.com-2020-01-14-13-40-11-1.gif" width="69"><br>
   <br> I'm Sudhanshu Sharma, Web Developer :computer:<br>
   <br>
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <h3 align="center"></h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Sudhanshu-Sharma-22&color=0e75b6)
@@ -30,8 +30,8 @@
   <img title="NextJS" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img title="VS Code" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Sharma-22&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tushar-gupta-git" width="500">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sudhanshu-Sharma-22&theme=jolly" width="500">
+<img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Sharma-22&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tushar-gupta-git" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sudhanshu-Sharma-22&theme=jolly" width="400">
   
 
 <img height="100" alt="Thanks for visiting!!!!" width="80%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
