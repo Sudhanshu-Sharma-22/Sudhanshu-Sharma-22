@@ -30,7 +30,7 @@
   <img title="NextJS" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img title="VS Code" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Sharma-22&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tushar-gupta-git" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Sharma-22&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Sudhanshu-Sharma-22" width="400">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Sudhanshu-Sharma-22&theme=jolly" width="400">
   
 
