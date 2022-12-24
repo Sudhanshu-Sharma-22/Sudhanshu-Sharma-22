@@ -35,7 +35,7 @@
   
 
 <img height="100" alt="Thanks for visiting!!!!" width="80%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-
+<!-- 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Sudhanshu-Sharma-22/count.svg" />
+  <img src="https://profile-counter.glitch.me/Sudhanshu-Sharma-22/count.svg" /> -->
